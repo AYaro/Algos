@@ -5,13 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Openedu.Week7
+namespace Algos
 {
-    class Lab7_4
+    class Week7_4
     {
         public static void Main(string[] args)
         {
-            var app = new Lab7_4();
+            var app = new Week7_4();
             app.DoWork(args);
         }
 
