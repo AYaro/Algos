@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Algos
 {
-class main
+class Week7_3
 {
     public static void Main(string[] args)
         {
-            var app = new Lab7_3();
+            var app = new Week7_3();
             app.DoWork(args);
         }
 
